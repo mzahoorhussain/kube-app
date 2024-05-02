@@ -13,7 +13,7 @@ spec:
     metadata:
       labels:
         app: vprodb
-   spec:
+    spec:
      containers:
        - name: vprodb
          image: vprofile/vprofiledb:v1
